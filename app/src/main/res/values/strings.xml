@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="username">Username</string>
+    <string name="password">password</string>
+    <string name="belum_punya_akun">Belum punya akun ?</string>
+    <string name="daftar">Daftar</string>
+    <string name="login">Login</string>
+</resources>
